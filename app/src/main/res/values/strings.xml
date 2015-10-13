@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Linea1</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- NavigationView-->
+    <string name="nav_main_account">Account</string>
+    <string name="nav_main_news">News</string>
+    <string name="nav_main_guides">Guides</string>
+    .
+    <!-- DrawerToogle-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="dummy_profile_name">Renzo Santillán Ch.</string>
+    <string name="dummy_main_card_code">6503901</string>
+    <string name="nav_main_submenu_title">We are Linea1</string>
+    <string name="nav_main_title">Line1 - Main</string>
+
+    <!--Toolbar-->
+    <dimen name="custom_title_size_toolbar">15sp</dimen>
+    <dimen name="custom_subtitle_size_toolbar">13sp</dimen>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_account">Account</string>
+</resources>
